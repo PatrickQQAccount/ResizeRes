@@ -35,3 +35,4 @@ Automatic Generate Android Resource Image Size
 ###```python Resize.py [Project Path]/src/main/res```
 
 然后就没然后了..
+.....
